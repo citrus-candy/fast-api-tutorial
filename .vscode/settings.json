@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "aiosqlite",
+    "asyncio",
+    "autoflush",
+    "dones",
+    "httpx",
+    "isnot",
+    "outerjoin",
+    "pydantic",
+    "pymysql",
+    "pytest",
+    "sessionmaker",
+    "sqlalchemy",
+    "unmark"
+  ]
+}
